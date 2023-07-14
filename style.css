@@ -44,7 +44,7 @@ h6 {
 .mensaje{
     height: 440px;
     background: white;
-    background-image: url("img/Muñeco.jpg");
+    background-image: url("./img/Muñeco.jpg");
     background-repeat: no-repeat;
     background-position: center;
     border: none;
